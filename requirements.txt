@@ -1,8 +1,8 @@
-!pip install -qU "langchain[groq]"
-!pip install -qU langchain-text-splitters
-!pip install -qU langchain-chroma
-!pip install -U langchain-community
-!pip install assemblyai
-!pip install python-docx
-!pip install streamlit-audiorecorder
-!pip install streamlit
+langchain[groq]
+langchain-text-splitters
+langchain-chroma
+langchain-community
+assemblyai
+python-docx
+streamlit-audiorecorder
+streamlit
