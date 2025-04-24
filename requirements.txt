@@ -6,3 +6,4 @@ assemblyai
 python-docx
 streamlit-audiorecorder
 streamlit
+notebook
